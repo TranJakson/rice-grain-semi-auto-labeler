@@ -1,0 +1,19 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary & system files
+.DS_Store
+Thumbs.db
+*.tmp
+~$*
+
+# Large archive files (GitHub recommends keeping repos light)
+*.zip
+*.tar.gz
+*.rar
+
+# IDE configs
+.vscode/
+.idea/

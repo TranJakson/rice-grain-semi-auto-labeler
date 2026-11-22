@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Rice-th-y-nh']
+
+roboflow:
+  workspace: duy-minh-2bmwg
+  project: rice-thay-nhu-3-auto-label
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/duy-minh-2bmwg/rice-thay-nhu-3-auto-label/dataset/1
